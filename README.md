@@ -45,8 +45,11 @@ TEMA: Análisis de Nodos
 
 7. CONCLUSIONES 
 
+
 8. BIBLIOGRAFÍA
 
+- F. (2021). Principios de circuitos eléctricos, 8Ed. Pearson.
+-  Bravo, E. (26 de febrero de 2017). Obtenido de http://www.inacap.cl/web/material-apoyo-cedem/alumno/Electricidad/Redes-Electricas/AAI_ELSP01_GE9-METODODE-ANALISIS-Y-RESOLUCION-DE-CIRCUITOS-EN-CC.pdf
 
 
 

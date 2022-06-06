@@ -41,6 +41,12 @@ TEMA: Análisis de Nodos
 
 5. Calcular erores de las mediciones.
 
+6.  VÍDEO 
+
+7. CONCLUSIONES 
+
+8. BIBLIOGRAFÍA
+
 
 
 

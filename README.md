@@ -29,7 +29,7 @@ TEMA: Análisis de Nodos
 
 4.1 Implemente el circuito que presenta en la figura 2.1.
 
-![image](https://user-images.githubusercontent.com/105887502/172203900-73435ed3-8ff0-42b0-8b26-fafd195b3147.png)
+![image](https://user-images.githubusercontent.com/105887502/172429807-f8df6fd4-79ae-4883-abc5-c16b54f38094.png)
 
 4.2 Identificación de Nodos 
 

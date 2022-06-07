@@ -53,9 +53,14 @@ TEMA: Análisis de Nodos
 
 4.5 Resultados obtenidos para el circuito de la figura 3.1 
 
-
+![image](https://user-images.githubusercontent.com/105887502/172499470-c2262a6e-99ad-4dfe-bd98-1bffbea233cf.png)
 
 5. Calcular erores de las mediciones.
+
+![image](https://user-images.githubusercontent.com/105887502/172499649-05f1db26-fd43-4b42-a447-d9b7c2c56f41.png)
+
+
+![image](https://user-images.githubusercontent.com/105887502/172499602-1c9b0f46-aee0-489a-96bc-8971ee2ded36.png)
 
 6.  VÍDEO 
 

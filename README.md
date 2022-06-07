@@ -49,11 +49,11 @@ TEMA: Análisis de Nodos
 
 4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajes de nodo.
 
-![image](https://user-images.githubusercontent.com/105887502/172489803-5e48983d-9b5f-46fb-88ed-d214e34dd308.png)
+![image](https://user-images.githubusercontent.com/105887502/172498027-64910d4d-4a8c-405c-9b14-ed9417cc2f7b.png)
 
 4.5 Resultados obtenidos para el circuito de la figura 3.1 
 
-![image](https://user-images.githubusercontent.com/105887502/172481849-938f31ca-b1c8-4b78-9542-35fa22d06254.png)
+
 
 5. Calcular erores de las mediciones.
 
@@ -66,6 +66,8 @@ Al realizar el análisis completo del circuito se tiene que en total hay unicame
 Para realizar correctamente el cálculo de corrientes por el método de mallas es necesario asignar el sentido a las corrientes de forma que se pueda aplicar la ley de Kirchhoff de las tensiones en cada una de las mallas a tratar.
 
 Los resultados obtenidos manualmente como en el simulador (TINKERCAD), varian en una mínima proporción debido a los factores utilizados en los calculos, debido a esto se diría que nunca daremos con una medida exacta ni precisa solo una aproximación.
+
+Para la tabla de comparciones tenemos variaciones al momento de medir ya que las fuentes en un circuito físico no son exactas como en el simulador , tambien varian mucho las resistencias por lo que no van a salir exactas pero si las podemos medir utilizando el multimetro para medir los voltajes. 
 
 8. BIBLIOGRAFÍA
 

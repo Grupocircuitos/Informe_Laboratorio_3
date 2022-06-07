@@ -61,6 +61,11 @@ TEMA: Análisis de Nodos
 
 7. CONCLUSIONES 
 
+Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
+
+Para realizar correctamente el cálculo de corrientes por el método de mallas es necesario asignar el sentido a las corrientes de forma que se pueda aplicar la ley de Kirchhoff de las tensiones en cada una de las mallas a tratar.
+
+Los resultados obtenidos manualmente como en el simulador (TINKERCAD), varian en una mínima proporción debido a los factores utilizados en los calculos, debido a esto se diría que nunca daremos con una medida exacta ni precisa solo una aproximación.
 
 8. BIBLIOGRAFÍA
 

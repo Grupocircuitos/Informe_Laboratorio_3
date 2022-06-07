@@ -45,6 +45,7 @@ TEMA: Análisis de Nodos
 
 ![image](https://user-images.githubusercontent.com/105887502/172481827-c7e5eb7b-b961-44ae-90fc-1034a8373982.png)
 
+![image](https://user-images.githubusercontent.com/105887502/172486636-aed45cd6-b241-4da8-b158-74b4e88683a3.png)
 
 4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajes de nodo.
 

@@ -37,12 +37,20 @@ TEMA: Análisis de Nodos
 
 4.3 Ecuaciones de Análisis de Nodos
 
+![image](https://user-images.githubusercontent.com/105887502/172481752-eb522b49-9465-4f07-b9a4-8435258637cb.png)
+
+![image](https://user-images.githubusercontent.com/105887502/172481777-c8c2dd2f-03a0-402d-858f-36b439f74d5d.png)
+
+![image](https://user-images.githubusercontent.com/105887502/172481803-1290dfc6-9ba8-440d-a353-cc9d6ea4c4b4.png)
+
+![image](https://user-images.githubusercontent.com/105887502/172481827-c7e5eb7b-b961-44ae-90fc-1034a8373982.png)
 
 
-
-4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajjes de nodo.
+4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajes de nodo.
 
 4.5 Resultados obtenidos para el circuito de la figura 3.1 
+
+![image](https://user-images.githubusercontent.com/105887502/172481849-938f31ca-b1c8-4b78-9542-35fa22d06254.png)
 
 5. Calcular erores de las mediciones.
 

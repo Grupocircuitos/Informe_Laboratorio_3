@@ -33,7 +33,9 @@ TEMA: Análisis de Nodos
 
 4.2 Identificación de Nodos 
 
-4.3 Ecuaciones de Análisis de Nodos 
+![image](https://user-images.githubusercontent.com/105887502/172273945-65cc3d97-f4b8-4ec8-91a4-a6065b8ccaf4.png)
+
+4.3 Ecuaciones de Análisis de Nodos
 
 4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajjes de nodo.
 

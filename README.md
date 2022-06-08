@@ -33,7 +33,7 @@ TEMA: Análisis de Nodos
 
 4.2 Identificación de Nodos 
 
-![image](https://user-images.githubusercontent.com/105887502/172273945-65cc3d97-f4b8-4ec8-91a4-a6065b8ccaf4.png)
+![image](https://user-images.githubusercontent.com/105887502/172501419-6f89d2b4-0e52-4d60-aa33-5fe8a64bb341.png)
 
 4.3 Ecuaciones de Análisis de Nodos
 
@@ -49,20 +49,20 @@ TEMA: Análisis de Nodos
 
 4.4 Simule en el software Thinkercad, obteniendo los valores de los voltajes de nodo.
 
-![image](https://user-images.githubusercontent.com/105887502/172500160-b67a5d88-190d-4332-b58a-0aa197394a06.png)
+![image](https://user-images.githubusercontent.com/105887502/172501512-9c7ab1be-00ba-4dde-94ad-bc5f3706555c.png)
+
 
 4.5 Resultados obtenidos para el circuito de la figura 3.1 
 
-![image](https://user-images.githubusercontent.com/105887502/172500362-19c950f5-1cb0-4415-87b1-cb6ebce15774.png)
+![image](https://user-images.githubusercontent.com/105887502/172505826-9a2fe7a4-a833-446a-bab8-4bb6c09d4d7d.png)
 
 5. Calcular erores de las mediciones.
 
-![image](https://user-images.githubusercontent.com/105887502/172499649-05f1db26-fd43-4b42-a447-d9b7c2c56f41.png)
+![image](https://user-images.githubusercontent.com/105887502/172505892-87354333-bb8d-4a87-a7f1-a22ed348a149.png)
 
+![image](https://user-images.githubusercontent.com/105887502/172505949-4a19eec6-fa79-48d0-b1c2-16326066d2d8.png)
 
-![image](https://user-images.githubusercontent.com/105887502/172499602-1c9b0f46-aee0-489a-96bc-8971ee2ded36.png)
-
-6.  VÍDEO 
+6. VÍDEO
 
 7. CONCLUSIONES 
 

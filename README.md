@@ -64,6 +64,8 @@ TEMA: Análisis de Nodos
 
 6. VÍDEO
 
+https://youtu.be/DPt2vCyreqQ
+
 7. CONCLUSIONES 
 
 Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
